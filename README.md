@@ -21,12 +21,12 @@ Currently looking for **Winter Internships**, **research opportunities**, and ex
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📝 ngl-Edit
+###  ngl-Edit
 A lightweight terminal text editor built from scratch in **C++**, using libraries and ANSI escape sequences.
 
-### 🤖 CredSync
+###  CredSync
 An AI-powered alternative credit scoring platform that uses alternative financial data to generate transparent and explainable credit scores.
 
 ---
@@ -66,7 +66,7 @@ An AI-powered alternative credit scoring platform that uses alternative financia
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 - Systems Programming
 - Artificial Intelligence & Machine Learning
@@ -75,7 +75,7 @@ An AI-powered alternative credit scoring platform that uses alternative financia
 
 ---
 
-## 🧩 Competitive Programming
+##  Competitive Programming
 
 I occasionally solve algorithmic problems to strengthen my problem-solving skills.
 
