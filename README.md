@@ -29,6 +29,12 @@ A lightweight terminal text editor built from scratch in **C++**, using librarie
 ###  CredSync
 An AI-powered alternative credit scoring platform that uses alternative financial data to generate transparent and explainable credit scores.
 
+### WebSCI
+Async web crawler and hybrid search engine built with Python and FastAPI.
+
+### PixView
+Image viewer written in C that renders binary PPM (P6) images using SDL2.
+
 ---
 
 ## 🛠️ Tech Stack
