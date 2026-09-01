@@ -6,7 +6,7 @@ Curious about how software works. Building it one project at a time.
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+software+from+scratch.;Writing+C%2B%2B+%26+Python.;Exploring+AI+%26+Machine+Learning.;Always+building+something+new.;Open+to+Winter+Internships." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8424BF&center=true&vCenter=true&width=600&lines=Building+software+from+scratch.;Writing+C%2B%2B+%26+Python.;Exploring+AI+%26+Machine+Learning.;Always+building+something+new.;Open+to+Winter+Internships." />
 </p>
 
 ---
