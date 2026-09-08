@@ -32,6 +32,9 @@ Async web crawler and hybrid search engine built with Python and FastAPI.
 ### PixView
 Image viewer written in C that renders binary PPM (P6) images using SDL2.
 
+### whoami
+An npm package to suggest username.
+
 ---
 
 ## 🛠️ Tech Stack
