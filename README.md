@@ -37,12 +37,6 @@ I'm looking for **winter internships**, **research opportunities** and **open-so
   <img src="assets/orbit-stack.svg" alt="Orbital diagram: C, C++ and Python on the inner orbit; HTML, CSS and JavaScript next; Git, Linux and VS Code after that; Rust, FastAPI, Unity and machine learning on the outer orbit" width="100%">
 </p>
 
-<p align="center"><img src="assets/sections/activity.svg" alt="activity" width="100%"></p>
-
-<p align="center">
-  <img src="assets/heatmap.svg" alt="Contribution heatmap for the last year" width="100%">
-</p>
-
 <p align="center"><img src="assets/sections/transmit.svg" alt="transmit" width="100%"></p>
 
 <p align="center">
