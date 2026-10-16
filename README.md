@@ -1,131 +1,56 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Divyanshi: a star chart with a pixel crescent moon and orbiting planets" width="100%">
+</p>
 
-<h1 align="center">Hi, I'm Divyanshi 👋</h1>
-
-<h3 align="center">
-Curious about how software works. Building it one project at a time.
-</h3>
+<p align="center"><img src="assets/sections/whoami.svg" alt="whoami" width="100%"></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8424BF&center=true&vCenter=true&width=600&lines=Building+software+from+scratch.;Writing+C%2B%2B+%26+Python.;Exploring+AI+%26+Machine+Learning.;Always+building+something+new.;Open+to+Winter+Internships." />
+  <img src="assets/identity.svg" alt="Terminal: whoami, focus, projects, status" width="100%">
 </p>
 
----
+Second-year B.Tech Computer Science student at **IIEST Shibpur**. I like understanding how software works beneath the surface, and I learn by building: a terminal editor in C++, a search engine in Python, an image viewer in C.
 
-## 👩‍💻 About Me
+I'm looking for **winter internships**, **research opportunities** and **open-source collaborations**. When I can, I solve algorithm problems on [Codeforces](https://codeforces.com/profile/stackrift._.15).
 
-I'm a second-year B.Tech Computer Science student at **IIEST Shibpur**.
-
-I enjoy understanding how software works beneath the surface and building projects that help me learn—whether that's a terminal application in C++, an AI-powered platform, or a modern web application.
-
-Currently looking for **Winter Internships**, **research opportunities**, and exciting **open-source collaborations**.
-
----
-
-##  Featured Projects
-
-###  ngl-Edit
-A lightweight terminal text editor built from scratch in **C++**, using libraries and ANSI escape sequences.
-
-### WebSCI
-Async web crawler and hybrid search engine built with Python and FastAPI.
-
-### PixView
-Image viewer written in C that renders binary PPM (P6) images using SDL2.
-
-### whoami
-An npm package to suggest username.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Web
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-### Currently Learning
-
-- Rust
-- FastAPI
-- Unity
-- Machine Learning
-
----
-
-##  Currently Exploring
-
-- Systems Programming
-- Artificial Intelligence & Machine Learning
-- Open Source
-- Building projects that solve real-world problems
-
----
-
-##  Competitive Programming
-
-I occasionally solve algorithmic problems to strengthen my problem-solving skills.
-
-<p>
-<a href="https://codeforces.com/profile/stackrift._.15">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
+<p align="center"><img src="assets/sections/constellation.svg" alt="constellation" width="100%"></p>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=st4ckrift&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=st4ckrift&hide_border=true"/>
-
+  <img src="assets/constellation.svg" alt="An animated constellation connecting ngl-Edit, WebSCI, PixView and whoami, with Rust, FastAPI, ML and Unity as dim stars still in orbit" width="100%">
 </p>
 
----
-
-## 🤝 Connect with Me
-
-<p>
-
-<a href="https://linkedin.com/in/divyanshi-bhatia-648654376/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/st4ckrift">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/stackrift._.15">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</p>
-
----
+<p align="center"><img src="assets/sections/projects.svg" alt="projects" width="100%"></p>
 
 <p align="center">
-<i>Thanks for stopping by! Feel free to explore my repositories or connect with me.</i>
+  <img src="assets/projects.svg" alt="ngl-Edit, WebSCI, PixView and whoami" width="100%">
 </p>
-```
+
+<p align="center">
+  <a href="https://github.com/st4ckrift/ngl-Edit">ngl-Edit</a> &nbsp;·&nbsp;
+  <a href="https://github.com/st4ckrift/WebSCI">WebSCI</a> &nbsp;·&nbsp;
+  <a href="https://github.com/st4ckrift/PixView">PixView</a> &nbsp;·&nbsp;
+  <a href="https://github.com/st4ckrift/whoami">whoami</a>
+</p>
+
+<p align="center"><img src="assets/sections/orbital-stack.svg" alt="orbital stack" width="100%"></p>
+
+<p align="center">
+  <img src="assets/orbit-stack.svg" alt="Orbital diagram: C, C++ and Python on the inner orbit; HTML, CSS and JavaScript next; Git, Linux and VS Code after that; Rust, FastAPI, Unity and machine learning on the outer orbit" width="100%">
+</p>
+
+<p align="center"><img src="assets/sections/activity.svg" alt="activity" width="100%"></p>
+
+<p align="center">
+  <img src="assets/heatmap.svg" alt="Contribution heatmap for the last year" width="100%">
+</p>
+
+<p align="center"><img src="assets/sections/transmit.svg" alt="transmit" width="100%"></p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/divyanshi-bhatia-648654376/"><img src="https://img.shields.io/badge/LinkedIn-4a3b8f?style=flat-square&logo=linkedin&logoColor=efeafc" alt="LinkedIn"></a>
+  <a href="https://github.com/st4ckrift"><img src="https://img.shields.io/badge/GitHub-4a3b8f?style=flat-square&logo=github&logoColor=efeafc" alt="GitHub"></a>
+  <a href="https://codeforces.com/profile/stackrift._.15"><img src="https://img.shields.io/badge/Codeforces-4a3b8f?style=flat-square&logo=codeforces&logoColor=efeafc" alt="Codeforces"></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Moon phases from new to full and back" width="100%">
+</p>
