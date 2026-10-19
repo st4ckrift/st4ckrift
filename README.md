@@ -26,7 +26,7 @@ I'm looking for **winter internships**, **research opportunities** and **open-so
 
 <p align="center">
   <a href="https://github.com/st4ckrift/ngl-Edit">ngl-Edit</a> &nbsp;·&nbsp;
-  <a href="https://github.com/st4ckrift/WebSCI">WebSCI</a> &nbsp;·&nbsp;
+  <a href="https://github.com/st4ckrift/Vecna">Vecna</a> &nbsp;·&nbsp;
   <a href="https://github.com/st4ckrift/PixView">PixView</a> &nbsp;·&nbsp;
   <a href="https://github.com/st4ckrift/whoami">whoami</a>
 </p>
