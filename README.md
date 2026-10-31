@@ -42,7 +42,6 @@ I'm looking for **winter internships**, **research opportunities** and **open-so
 <p align="center">
   <a href="https://linkedin.com/in/divyanshi-bhatia-648654376/"><img src="https://img.shields.io/badge/LinkedIn-4a3b8f?style=flat-square&logo=linkedin&logoColor=efeafc" alt="LinkedIn"></a>
   <a href="https://github.com/st4ckrift"><img src="https://img.shields.io/badge/GitHub-4a3b8f?style=flat-square&logo=github&logoColor=efeafc" alt="GitHub"></a>
-  <a href="https://codeforces.com/profile/stackrift._.15"><img src="https://img.shields.io/badge/Codeforces-4a3b8f?style=flat-square&logo=codeforces&logoColor=efeafc" alt="Codeforces"></a>
 </p>
 
 <p align="center">
